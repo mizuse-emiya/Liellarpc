@@ -39,7 +39,7 @@ func (c *goTestClient) GetAddressResponse(ctx context.Context, in *SendAddress, 
 	return out, nil
 }
 
-// GoTestServer is the server API for GoTest service.
+// GoTestServer is the testserver API for GoTest service.
 // All implementations must embed UnimplementedGoTestServer
 // for forward compatibility
 type GoTestServer interface {
