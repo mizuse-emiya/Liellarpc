@@ -1,2 +1,2 @@
 # Liellarpc
-A completely new practicing and experiment project in building  a RPC framework 
+A completely new practicing and experiments project in building  a RPC framework 
